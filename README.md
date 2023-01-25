@@ -1,1 +1,1 @@
-# gericht-app
+# GERICHT-App
